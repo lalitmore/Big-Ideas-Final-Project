@@ -6,7 +6,7 @@ Members: Daniel - dfc17@pitt.edu; finalProjectPublicTranspo.ipynb
 
 Lalit - 
 
-Micheal -
+Michael - mip132@pitt.edu; 
 
 Canvas group number: 29
 
