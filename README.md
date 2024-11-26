@@ -1,6 +1,6 @@
 Overview: This projects analyzes which neighborhood in Pittsburgh is best for college students based on supermarkets, public transportation, and parks.
 
-Team Name:
+Team Name: Best Neighborhood for Student Life in Pittsburgh
 
 Members: Daniel - dfc17@pitt.edu; finalProjectPublicTranspo.ipynb
 
