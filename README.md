@@ -4,7 +4,7 @@ Team Name: Best Neighborhood for Student Life in Pittsburgh
 
 Members: Daniel - dfc17@pitt.edu; finalProjectPublicTranspo.ipynb
 
-Lalit - 
+Lalit - lam507@pitt.edu; LAM507FinalProjectSuperMarket.ipynb
 
 Michael - mip132@pitt.edu; ParkFeatures.ipynb
 
